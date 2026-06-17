@@ -1,0 +1,48 @@
+# Visual Studio user and cache files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+ipch/
+
+# Build output directories
+[Dd]ebug/
+[Rr]elease/
+[Rr]elWithDebInfo/
+[Mm]in[Ss]ize[Rr]el/
+x64/
+x86/
+ARM/
+ARM64/
+[Bb]in/
+[Oo]bj/
+build/
+out/
+
+# C/C++ build artifacts
+*.obj
+*.o
+*.idb
+*.pdb
+*.ilk
+*.exe
+*.exp
+*.iobj
+*.ipdb
+*.recipe
+*.tlog
+*.lastbuildstate
+*.FileListAbsolute.txt
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+.vscode/
